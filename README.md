@@ -5,7 +5,7 @@
 # 💠 David
 
 **`3rd year BSc Student at HEC Lausanne`**
-- 🧑🏻‍💻 I'm Interested in Datascience and IT Project Management.
+- 🧑🏻‍💻 I'm Interested in Data science and IT Project Management.
 
 #
 
