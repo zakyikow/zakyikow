@@ -4,7 +4,7 @@
 -->
 # 💠 David
 
-**`3rd year BSc Student at HEC Lausanne`**
+**`MSc Data Science at Copenhagen Business School`**
 - 🧑🏻‍💻 I'm Interested in Data science and IT Project Management.
 
 #
