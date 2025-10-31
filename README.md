@@ -5,7 +5,7 @@
 # 💠 David
 
 **`MSc Data Science at Copenhagen Business School`**
-- 🧑🏻‍💻 I'm Interested in Data science and IT Project Management.
+- 🧑🏻‍💻 I'm Interested in Data Science and Web Development.
 
 #
 
