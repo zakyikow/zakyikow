@@ -14,7 +14,6 @@
 
 <img align="left" alt="Python" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-<img align="left" alt="Stata" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stata/stata-original-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
 <img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354428/tableau-icon.svg" />
 <img align="left" alt="GitHub" width="28px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" />
